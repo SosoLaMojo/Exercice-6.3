@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Solange\source\repos\SAE Institute\6.Exercice Algorithms\6.3 Exercice Algorithms\6.3 Exercice Algorithms\Algorithme_de_tri.h(7,26): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\Solange\source\repos\SAE Institute\6.Exercice Algorithms\6.3 Exercice Algorithms\6.3 Exercice Algorithms\Algorithme_de_tri.h(9,21): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\Solange\source\repos\SAE Institute\6.Exercice Algorithms\6.3 Exercice Algorithms\6.3 Exercice Algorithms\Algorithme_de_tri.h(26,26): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\Solange\source\repos\SAE Institute\6.Exercice Algorithms\6.3 Exercice Algorithms\6.3 Exercice Algorithms\Algorithme_de_tri.h(76,20): warning C4018:  '<' : incompatibilité signed/unsigned
+  6.3 Exercice Algorithms.vcxproj -> C:\Users\Solange\source\repos\SAE Institute\6.Exercice Algorithms\6.3 Exercice Algorithms\Debug\6.3 Exercice Algorithms.exe
